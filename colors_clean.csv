@@ -1,0 +1,135 @@
+,id,name,is_trans
+0,-1,Unknown,f
+1,0,Black,f
+2,1,Blue,f
+4,3,Dark Turquoise,f
+5,4,Red,f
+6,5,Dark Pink,f
+7,6,Brown,f
+8,7,Light Gray,f
+9,8,Dark Gray,f
+10,9,Light Blue,f
+11,10,Bright Green,f
+12,11,Light Turquoise,f
+13,12,Salmon,f
+14,13,Pink,f
+15,14,Yellow,f
+16,15,White,f
+17,17,Light Green,f
+18,18,Light Yellow,f
+19,19,Tan,f
+20,20,Light Violet,f
+21,21,Glow In Dark Opaque,f
+22,22,Purple,f
+23,23,Dark Blue-Violet,f
+24,25,Orange,f
+25,26,Magenta,f
+26,27,Lime,f
+27,28,Dark Tan,f
+28,29,Bright Pink,f
+29,30,Medium Lavender,f
+30,31,Lavender,f
+31,32,Trans-Black IR Lens,t
+32,33,Trans-Dark Blue,t
+33,34,Trans-Green,t
+34,35,Trans-Bright Green,t
+35,36,Trans-Red,t
+36,40,Trans-Black,t
+37,41,Trans-Light Blue,t
+38,42,Trans-Neon Green,t
+39,43,Trans-Very Lt Blue,t
+40,45,Trans-Dark Pink,t
+41,46,Trans-Yellow,t
+42,47,Trans-Clear,t
+43,52,Trans-Purple,t
+44,54,Trans-Neon Yellow,t
+45,57,Trans-Neon Orange,t
+46,60,Chrome Antique Brass,f
+47,61,Chrome Blue,f
+48,62,Chrome Green,f
+49,63,Chrome Pink,f
+50,64,Chrome Black,f
+51,68,Very Light Orange,f
+52,69,Light Purple,f
+53,70,Reddish Brown,f
+54,71,Light Bluish Gray,f
+55,72,Dark Bluish Gray,f
+56,73,Medium Blue,f
+57,74,Medium Green,f
+58,75,Speckle Black-Copper,f
+59,76,Speckle DBGray-Silver,f
+60,77,Light Pink,f
+61,78,Light Flesh,f
+62,79,Milky White,f
+63,80,Metallic Silver,f
+64,81,Metallic Green,f
+65,82,Metallic Gold,f
+66,84,Medium Dark Flesh,f
+67,85,Dark Purple,f
+68,86,Dark Flesh,f
+69,89,Royal Blue,f
+70,92,Flesh,f
+71,100,Light Salmon,f
+72,110,Violet,f
+73,112,Blue-Violet,f
+74,114,Glitter Trans-Dark Pink,t
+75,115,Medium Lime,f
+76,117,Glitter Trans-Clear,t
+77,118,Aqua,f
+78,120,Light Lime,f
+79,125,Light Orange,f
+80,129,Glitter Trans-Purple,t
+81,132,Speckle Black-Silver,f
+82,133,Speckle Black-Gold,f
+83,134,Copper,f
+84,135,Pearl Light Gray,f
+85,137,Metal Blue,f
+86,142,Pearl Light Gold,f
+87,143,Trans-Medium Blue,t
+88,148,Pearl Dark Gray,f
+89,150,Pearl Very Light Gray,f
+90,151,Very Light Bluish Gray,f
+91,158,Yellowish Green,f
+92,178,Flat Dark Gold,f
+93,179,Flat Silver,f
+94,182,Trans-Orange,t
+95,183,Pearl White,f
+96,191,Bright Light Orange,f
+97,212,Bright Light Blue,f
+98,216,Rust,f
+99,226,Bright Light Yellow,f
+100,230,Trans-Pink,t
+101,232,Sky Blue,f
+102,236,Trans-Light Purple,t
+103,272,Dark Blue,f
+104,288,Dark Green,f
+105,294,Glow In Dark Trans,t
+106,297,Pearl Gold,f
+107,308,Dark Brown,f
+108,313,Maersk Blue,f
+109,320,Dark Red,f
+110,321,Dark Azure,f
+111,322,Medium Azure,f
+112,323,Light Aqua,f
+113,326,Olive Green,f
+114,334,Chrome Gold,f
+115,335,Sand Red,f
+116,351,Medium Dark Pink,f
+117,366,Earth Orange,f
+118,373,Sand Purple,f
+119,378,Sand Green,f
+120,379,Sand Blue,f
+121,383,Chrome Silver,f
+122,450,Fabuland Brown,f
+123,462,Medium Orange,f
+124,484,Dark Orange,f
+125,503,Very Light Gray,f
+126,1000,Glow in Dark White,f
+127,1001,Medium Violet,f
+128,1002,Glitter Trans-Neon Green,t
+129,1003,Glitter Trans-Light Blue,t
+130,1004,Trans Flame Yellowish Orange,t
+131,1005,Trans Fire Yellow,t
+132,1006,Trans Light Royal Blue,t
+133,1007,Reddish Lilac,f
+134,9999,[No Color],f
